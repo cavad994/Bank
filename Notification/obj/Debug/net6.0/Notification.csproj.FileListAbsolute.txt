@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\Notification\Notification\bin\Debug\net6.0\Notification.exe
+C:\Users\asus\source\repos\Notification\Notification\bin\Debug\net6.0\Notification.deps.json
+C:\Users\asus\source\repos\Notification\Notification\bin\Debug\net6.0\Notification.runtimeconfig.json
+C:\Users\asus\source\repos\Notification\Notification\bin\Debug\net6.0\Notification.dll
+C:\Users\asus\source\repos\Notification\Notification\bin\Debug\net6.0\Notification.pdb
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.AssemblyInfo.cs
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.dll
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\refint\Notification.dll
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.pdb
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\Notification.genruntimeconfig.cache
+C:\Users\asus\source\repos\Notification\Notification\obj\Debug\net6.0\ref\Notification.dll
